@@ -1,0 +1,1 @@
+* Dicas para performar projetos [[Next.JS - Dicas]]*

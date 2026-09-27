@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "abe69f1d63a339c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "04ba7aaa4e3f6640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15976dcf1df7fb67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento TI/_Sumário - Desenvolvimento TI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Sumário - Desenvolvimento TI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d63d9fc3e2708633",
+    "type": "split",
+    "children": [
+      {
+        "id": "f447d262e858ac60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "759ccc330cc1927c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "f49395ddc0fbb21b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Teste",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "6baf8fddbd1f5abb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "1c27e12382ec7c6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47063803b7ba1e63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa4f96d0db33baab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "74a8b0f152829aaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Primeira nota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "0cecc186f3e62f33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e700d20e14837894",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "da06d046d71518b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Primeira nota.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "c2df0a3784a74f79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
+          },
+          {
+            "id": "699c9cbe4b6a3b18",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "15976dcf1df7fb67",
+  "lastOpenFiles": [
+    "Desenvolvimento TI/_Sumário - Desenvolvimento TI.md",
+    "Desenvolvimento TI/Carreira/Pilares da empregabilidade.md",
+    "Desenvolvimento TI/Emprego/Pesquisa de emprego.md",
+    "Excalidraw/_Sumário - Mapa Mental.md",
+    "Desenvolvimento TI/Next.JS/Next.JS - Dicas.md",
+    "Desenvolvimento TI/Next.JS/_Sumário - Next.JS.md",
+    "Desenvolvimento TI/UI Design/UI - Componentes.md",
+    "Sem título.canvas",
+    "Desenvolvimento TI",
+    "Desenvolvimento TI/UI Design/_UI - Sumário.md",
+    "Desenvolvimento TI/UI Design/UI - Slides e Componentes Animados.md",
+    "Desenvolvimento TI/UI Design/UI - Notificações.md",
+    "Desenvolvimento TI/UI Design/UI - Gráficos.md",
+    "Desenvolvimento TI/UI Design",
+    "Empreender/Temperos Online.md",
+    "Desenvolvimento TI/Next.JS",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "Excalidraw/Evoluir na carreira.md",
+    "Pilares da empregabilidade.md",
+    "Aprender",
+    "Desenvolvimento TI/Emprego",
+    "Pasted image 20260923095637.png",
+    "Desenvolvimento TI/Carreira",
+    "Excalidraw/Temperos Online.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Empreender",
+    "Piratas do Caribe.md",
+    "Mind Map.md",
+    "Filmes.md",
+    "2026-09-20.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Excalidraw/Drawing 2026-09-20 23.33.09.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-20 23.31.16.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-20 23.31.32.excalidraw.md",
+    "asdfas.md",
+    "Primeira nota.md"
+  ]
+}
