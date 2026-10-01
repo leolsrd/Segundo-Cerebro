@@ -35,9 +35,9 @@ Ao lado tem um link para o mind map criado com o contexto [https://whimsical.com
 | Produto              | Preço KG | Peso | Preço de 100G |
 | -------------------- | -------- | ---- | ------------- |
 | Sal Rosa do himalaia | 17,9610  | 100G | 1,80          |
-| Páprica defumada     |          | 100G |               |
+| Páprica defumada     | 26,59    | 100G | 2,65          |
 | Chimichurri          |          | 100G |               |
-| Cebola, Alho e Salsa | 142,00   | 100G | 14,20         |
+| Cebola, Alho e Salsa |          | 100G |               |
 | Edu Guedes           | 135,00   | 100G | 13,50         |
 | Páprica doce         | 109,00   | 100G | 10,90         |
 
@@ -48,4 +48,27 @@ Ao lado tem um link para o mind map criado com o contexto [https://whimsical.com
 	* 37,80
 	* 12,60
 	* 16,49
-	
+	* Valor médio de 1 kg = 17,96
+	* Valor de 100 G baseado no valor médio do Kg acima = 1,79
+
+* Para a páprica defumada, escolhi 5 produtos aleatórios, com valores variados, e tirei a média.
+  Cada produto tinha o peso de 1 KG e os valores encontrados foram: 
+	* 27,80
+	* 28,97
+	* 27,85
+	* 23,87
+	* 24,48
+	* Valor médio de 1 kg = 26,59
+	* Valor de 100 G baseado no valor médio do Kg acima = 2,65
+
+# Valores no Comercial Pitangueira CEASA
+Tenho o contato de Marcela e o contato salvo no meu whats com o nome Comercial Pitangueira.
+
+| Produto              | Preço KG | Peso | Preço de 100G |
+| -------------------- | -------- | ---- | ------------- |
+| Sal Rosa do himalaia | 6,50     | 100G | 0,65          |
+| Páprica defumada     | 14,50    | 100G | 1,45          |
+| Chimichurri          | 23,50    | 100G | 2,35          |
+| Cebola, Alho e Salsa | 33,00    | 100G | 3,00          |
+| Edu Guedes           | 23,50    | 100G | 2,35          |
+| Páprica doce         | 14,50    | 100G | 1,45          |
