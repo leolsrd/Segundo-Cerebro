@@ -36,10 +36,10 @@ Ao lado tem um link para o mind map criado com o contexto [https://whimsical.com
 | -------------------- | -------- | ---- | ------------- |
 | Sal Rosa do himalaia | 17,9610  | 100G | 1,80          |
 | Páprica defumada     | 26,59    | 100G | 2,65          |
-| Chimichurri          |          | 100G |               |
-| Cebola, Alho e Salsa |          | 100G |               |
-| Edu Guedes           | 135,00   | 100G | 13,50         |
-| Páprica doce         | 109,00   | 100G | 10,90         |
+| Chimichurri          | 36,70    | 100G | 3,67          |
+| Cebola, Alho e Salsa | 38,22    | 100G | 3,82          |
+| Edu Guedes           | 34,70    | 100G | 3,46          |
+| Páprica doce         | 24,35    | 100G | 2,43          |
 
 * Para o sal rosa do Himalaia, escolhi 5 produtos aleatórios, com valores variados, e tirei a média.
   Cada produto tinha o peso de 1 KG e os valores encontrados foram: 
@@ -60,6 +60,46 @@ Ao lado tem um link para o mind map criado com o contexto [https://whimsical.com
 	* 24,48
 	* Valor médio de 1 kg = 26,59
 	* Valor de 100 G baseado no valor médio do Kg acima = 2,65
+
+* Para a chimichurri, escolhi 5 produtos aleatórios, com valores variados, e tirei a média.
+  Cada produto tinha o peso de 1 KG e os valores encontrados foram: 
+	* 28,35
+	* 37,90
+	* 43,00
+	* 38,04
+	* 36,24
+	* Valor médio de 1 kg = 36,70
+	* Valor de 100 G baseado no valor médio do Kg acima = 3,67
+
+* Para a cebola, alho e salsa, escolhi 5 produtos aleatórios, com valores variados, e tirei a média.
+  Cada produto tinha o peso de 1 KG e os valores encontrados foram: 
+	* 38,61
+	* 49,20
+	* 27,89
+	* 29,79
+	* 45,64
+	* Valor médio de 1 kg = 38,22
+	* Valor de 100 G baseado no valor médio do Kg acima = 3,82
+
+* Para a Edu Guedes, escolhi 5 produtos aleatórios, com valores variados, e tirei a média.
+  Cada produto tinha o peso de 1 KG e os valores encontrados foram: 
+	* 38,20
+	* 36,48
+	* 31,68
+	* 21,07
+	* 46,05
+	* Valor médio de 1 kg = 34,70
+	* Valor de 100 G baseado no valor médio do Kg acima = 3,46
+
+* Para a páprica doce, escolhi 5 produtos aleatórios, com valores variados, e tirei a média.
+  Cada produto tinha o peso de 1 KG e os valores encontrados foram: 
+	* 23,87
+	* 21,90
+	* 25,56
+	* 27,94
+	* 22,50
+	* Valor médio de 1 kg = 24,35
+	* Valor de 100 G baseado no valor médio do Kg acima = 2,43
 
 # Valores no Comercial Pitangueira CEASA
 Tenho o contato de Marcela e o contato salvo no meu whats com o nome Comercial Pitangueira.
