@@ -31,7 +31,8 @@
               "title": "Links úteis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e298b1bb21fc3c69",
+  "active": "f8d512ffb809af8d",
   "lastOpenFiles": [
     "CDS/Links úteis.md",
     "Pasted image 20261014105428.png",
