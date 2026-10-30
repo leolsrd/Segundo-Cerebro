@@ -3,6 +3,7 @@ A ideia é comprar a granel e vender potes personalizados plásticos com uma imp
 Como ideia eu peguei alguns produtos para comparativos de valor entre supermercado, Shopee e distribuidor.
 Ao lado tem um link para o mind map criado com o contexto [https://whimsical.com/l-o-s-workspace34/temperos-online-L3ufYRbMgZmjzHeJKcbQMX]
 # Peguei os seguintes temperos para comparar:
+
 * Sal rosa do himalaia
 * Páprica defumada
 * Tempero Edu Guedes
@@ -31,6 +32,7 @@ Ao lado tem um link para o mind map criado com o contexto [https://whimsical.com
 | Páprica doce         | 109,00   | 100G | 10,90         |
 
 # Valores no Comercial Pitangueira CEASA
+
 Tenho o contato de Marcela e o contato salvo no meu whats com o nome Comercial Pitangueira.
 
 | Produto              | Preço KG | Peso | Preço de 100G |
@@ -145,7 +147,6 @@ Tenho o contato de Marcela e o contato salvo no meu whats com o nome Comercial P
 * Indicação clara do peso líquido (exigência fiscalizada pelo IPEM/Inmetro).
 
 ###### Uma dica é ir ao Sebrae que eles dão um guia detalhado de como ajustar essa burocracia (se for o caso de fazer algo neste sentido).
-
 
 ## Passo a passo para abrir em casa (pesquisado pelo Google).
 
