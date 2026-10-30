@@ -112,3 +112,66 @@ Tenho o contato de Marcela e o contato salvo no meu whats com o nome Comercial P
 	* 22,50
 	* Valor médio de 1 kg = 24,35
 	* Valor de 100 G baseado no valor médio do Kg acima = 2,43
+
+
+## Regras e licenças governamentais.
+
+###### Formalizar a empresa abrindo um MEI para poder emitir documento fiscal
+
+* Pode ser aberto um MEI para emitir documento fiscal
+
+###### Documentação Municipal
+
+* Inscrição Municipal (cadastrar junto a prefeitura)
+* Alvará de funcionamento e localização da empresa.
+* AVCB (Auto de Vistoria do Corpo de Bombeiros)
+
+###### Vigilância Sanitária
+
+* Alvará / LIcença Sanitária: Fiscalizará se o local garante e cumpre as regras de higiene, armazenamento e manipulação.
+* Manual de Boas Práticas e POPs: Documentos internos obrigatórios detalhando como é feita a higiene do local, controle de pragas (dedetização), limpeza de potes e conduta ao manipular o alimento.
+
+###### Regularização na Anvisa 
+
+* Dispensa registro da Anvisa: De acordo com a regulamentação vigente (RDC nº 843/2024 e IN nº 281/2024), "especiarias, temperos e molhos" **não precisam de registro na Anvisa**
+* Comunicação de Início de Fabricação: **Comunicação de Início de Fabricação** diretamente na Vigilância Sanitária do seu município antes de começar a vender. 
+
+###### Regras de Embalagem e Rotulagem
+
+* Nome exato do produto e lista de ingredientes (em ordem decrescente de quantidade).
+* Identificação do fabricante (Nome/Razão Social, CNPJ, Endereço).
+* Dados de rastreabilidade: número do lote e data de validade.
+* Tabela e rotulagem nutricional atualizadas conforme as normas mais recentes da Anvisa (RDC nº 429/2020).
+* Indicação clara do peso líquido (exigência fiscalizada pelo IPEM/Inmetro).
+
+###### Uma dica é ir ao Sebrae que eles dão um guia detalhado de como ajustar essa burocracia (se for o caso de fazer algo neste sentido).
+
+
+## Passo a passo para abrir em casa (pesquisado pelo Google).
+
+##### 1. Viabilidade Urbanística (Prefeitura)
+
+Antes de abrir o CNPJ, você deve solicitar à Prefeitura a **Consulta de Viabilidade**. Esse processo verifica se a lei de zoneamento do seu município permite uma atividade comercial/industrial (mesmo que de baixo risco) no seu endereço residencial.
+
+##### 2. Adaptação do Espaço Físico (Exigências da Vigilância)
+
+A Vigilância Sanitária fará a vistoria no local. Para ser aprovado, o seu espaço de trabalho deve seguir estes critérios:
+
+- **Isolamento total:** A área de manipulação e armazenamento dos temperos não pode ser a mesma cozinha usada pela sua família. Deve ser um cômodo ou anexo separado.
+- **Animais de estimação:** É terminantemente proibida a presença de pets em qualquer local próximo à área de trabalho ou estoque.
+- **Superfícies laváveis:** As paredes e o piso devem ser de materiais fáceis de limpar (azulejos, cerâmica ou pintura lavável clara). Bancadas de madeira não são permitidas; prefira **aço inox, granito ou mármore**.
+- **Proteção contra pragas:** As janelas do cômodo devem possuir telas milimétricas para evitar a entrada de insetos, e as portas devem ter vedação na parte inferior.
+- **Água e Higiene:** O local precisa ter uma pia exclusiva para a lavagem das mãos e dos utensílios, com sabão líquido inodoro e papel toalha descartável.
+
+##### 3. Formalização Recomendada: MEI
+
+O modelo de **Microempreendedor Individual (MEI)** é o mais indicado para começar em casa, pois garante o alvará de forma muito mais rápida e simplificada:
+
+- **Custo zero na abertura:** Você não paga taxas governamentais para abrir.
+- **Dispensas automáticas:** Pela Lei da Liberdade Econômica, o MEI de baixo risco recebe um termo de ciência e responsabilidade que substitui o alvará de funcionamento tradicional, permitindo que você comece a operar imediatamente. _Nota: Isso não anula a obrigação de cumprir as regras sanitárias, pois a fiscalização pode ir à sua casa posteriormente._
+
+Passos Práticos para Começar:
+
+1. Acesse o **Portal do Empreendedor** e abra o seu MEI com o CNAE `1095-3/00` (Fabricação de especiarias, molhos, temperos e condimentos).
+2. Vá até a **Vigilância Sanitária do seu município** para informar o início das atividades e retirar a lista exata de exigências locais para microgeradores residenciais.
+3. Monte a sua estrutura de pesagem e embalagem garantindo que tudo fique guardado em potes hermeticamente fechados e organizados (nunca direto no chão).
